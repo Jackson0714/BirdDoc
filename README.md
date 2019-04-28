@@ -1,6 +1,4 @@
-![](https://img.shields.io/npm/v/drone.svg)
-
-![](https://img.shields.io/badge/language-markdown-Red.svg)
+![](https://img.shields.io/npm/v/drone.svg) ![](https://img.shields.io/badge/language-markdown-Red.svg)
 
 # 此项目是专门用来展示文档的
 ## 支持的功能:
