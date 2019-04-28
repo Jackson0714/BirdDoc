@@ -8,6 +8,5 @@
 ### 4.支持本地部署
 ## 用到的技术
 ### vue.js
-
-
+![avatar](https://raw.githubusercontent.com/Jackson0714/BirdDoc/master/BirdDoc.png)
 
