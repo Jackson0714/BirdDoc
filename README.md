@@ -27,4 +27,6 @@ npm install
 启动成功后会提示“VuePress dev server listening at http://xxx”，在浏览器中打开提示的地址即可   
 npm start
 
-# test crontab
+test crontab
+
+test auto build jenkins 
