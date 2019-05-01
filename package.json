@@ -1,5 +1,5 @@
 {
-    "name": "kidsplace-interface",
+    "name": "interface",
     "version": "1.0.0",
     "scripts": {
         "start": "./node_modules/.bin/vuepress dev",
