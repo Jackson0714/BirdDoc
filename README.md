@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="https://vuepress.vuejs.org/" target="_blank">
+    <img width="180" src="https://raw.githubusercontent.com/vuejs/vuepress/master/packages/docs/docs/.vuepress/public/hero.png" alt="logo">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/npm/dm/vuepress.svg" alt="Downloads"></a>
+  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/npm/v/vuepress.svg" alt="Version"></a>
+  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://badgen.net/npm/v/vuepress/next" alt="npm next version"></a>
+  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
+</p>
+
+> This is the branch for `VuePress 1.x` and docs are available at https://v1.vuepress.vuejs.org.
 ![](https://img.shields.io/npm/v/drone.svg) ![](https://img.shields.io/badge/language-markdown-Red.svg)
 
 ![avatar](https://raw.githubusercontent.com/Jackson0714/BirdDoc/master/BirdDoc.png)
