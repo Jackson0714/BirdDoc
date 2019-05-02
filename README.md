@@ -5,13 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/npm/dm/vuepress.svg" alt="Downloads"></a>
-  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/npm/v/vuepress.svg" alt="Version"></a>
-  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://badgen.net/npm/v/vuepress/next" alt="npm next version"></a>
-  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/npm/l/vuepress.svg" alt="License"></a>
+  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/npm/v/drone.svg" ></a>
+  <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/badge/language-markdown-Red.svg" ></a>
 </p>
 
-> This is the branch for `VuePress 1.x` and docs are available at https://v1.vuepress.vuejs.org.
 ![](https://img.shields.io/npm/v/drone.svg) ![](https://img.shields.io/badge/language-markdown-Red.svg)
 
 ![avatar](https://raw.githubusercontent.com/Jackson0714/BirdDoc/master/BirdDoc.png)
