@@ -7,9 +7,8 @@
 <p align="center">
   <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/npm/v/drone.svg" ></a>
   <a href="https://www.cnblogs.com/jackson0714/p/birddoc.html"><img src="https://img.shields.io/badge/language-markdown-Red.svg" ></a>
-![avatar](https://raw.githubusercontent.com/Jackson0714/BirdDoc/master/BirdDoc.png)
 </p>
-
+![avatar](https://raw.githubusercontent.com/Jackson0714/BirdDoc/master/BirdDoc.png)
 
 
 # 此项目是专门用来展示文档的
