@@ -11,8 +11,13 @@
 
 ![avatar](https://raw.githubusercontent.com/Jackson0714/BirdDoc/master/BirdDoc.png)
 
+# 前言
 
 # 此项目是专门用来展示文档的
+
+## 工具地址：http://birddoc.jayh.club  
+## 博客地址：https://www.cnblogs.com/jackson0714/p/birddoc.html
+
 ## 支持的功能:
 ### 1.顶部具有搜索功能
 ### 2.左侧具有导航功能
