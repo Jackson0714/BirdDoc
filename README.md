@@ -1,3 +1,5 @@
+# 前言
+
 <p align="center">
   <a href="https://vuepress.vuejs.org/" target="_blank">
     <img width="180" src="https://images.cnblogs.com/cnblogs_com/jackson0714/809472/o_qrcode_wkljg.jpg" alt="logo">
@@ -11,12 +13,12 @@
 
 ![avatar](https://raw.githubusercontent.com/Jackson0714/BirdDoc/master/BirdDoc.png)
 
-# 前言
-
 # 此项目是专门用来展示文档的
 
-## 工具地址：http://birddoc.jayh.club  
-## 博客地址：https://www.cnblogs.com/jackson0714/p/birddoc.html
+## 工具地址
+http://birddoc.jayh.club  
+## 博客地址
+https://www.cnblogs.com/jackson0714/p/birddoc.html
 
 ## 支持的功能:
 ### 1.顶部具有搜索功能
@@ -27,8 +29,8 @@
 ## 用到的技术
 ### vue.js
 
-# 准备工作
-## 安装 Node.js
+## 准备工作
+### 安装 Node.js
 ### Windows 下载 https://nodejs.org/dist/v8.1.2/node-v8.1.2-x64.msi 安装
 ### Linux & macOS 如下：
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
